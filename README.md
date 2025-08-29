@@ -68,4 +68,3 @@ It allows you to:
 ---
 
 
-Would you like me to also **write the `main.py` FastAPI file** (with `/upload`, `/query`, `/delete`) so your project is plug-and-play?
